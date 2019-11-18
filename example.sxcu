@@ -1,0 +1,12 @@
+﻿{
+  "Name": "moe",
+  "DestinationType": "ImageUploader, TextUploader, FileUploader",
+  "RequestType": "POST",
+  "RequestURL": "http://95.217.53.198/upload.php",
+  "FileFormName": "sharex",
+  "Arguments": {
+    "secret": "token1"
+  },
+  "ResponseType": "Text",
+  "URL": "http://95.217.53.198/i/$json:url$"
+}
